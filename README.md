@@ -1,8 +1,16 @@
-E-Commerce Purchase Prediction using Machine Learning
+# E-Commerce Purchase Prediction using Machine Learning
 
 This project predicts whether a user will make a purchase based on their behavior on an e-commerce platform.
 
-Model Used: Logistic Regression
-Accuracy: 98.1%
+## 📊 Features
+- Data preprocessing
+- Handling missing values
+- Logistic Regression model
+- Class imbalance handling
+- Evaluation using accuracy, confusion matrix, and classification report
 
-The model was improved using class balancing techniques to handle imbalanced data.
+## 📈 Results
+- Accuracy: 98.1%
+
+## 🧠 Conclusion
+The model performs well in predicting purchase behavior and can help businesses identify potential customers.
